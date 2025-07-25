@@ -286,43 +286,4 @@ class ScheduleVerifyService
         return $count;
     }
 
-    // public function countLecturerBackToBack()
-    // {
-    //     $conflictCount = 0;
-
-    //     $lecturers = User::with('classGroups.subjectClass')->get();
-
-    //     foreach ($lecturers as $lecturer) {
-    //         $dailySchedules = [];
-
-    //         foreach ($lecturer->classGroups as $group) {
-    //             if (!$group->time || !$group->subjectClass) continue;
-
-    //             [$day, $timeStr] = explode('_', $group->time);
-    //             $start = intval(explode(':', $timeStr)[0]);
-    //             $duration = $group->subjectClass->duration ?? 2;
-    //             $end = $start + $duration;
-
-    //             $dailySchedules[$day][] = ['start' => $start, 'end' => $end];
-    //         }
-
-    //         foreach ($dailySchedules as $slots) {
-    //             // Sort by start time
-    //             usort($slots, fn($a, $b) => $a['start'] <=> $b['start']);
-
-    //             for ($i = 0; $i < count($slots) - 1; $i++) {
-    //                 $current = $slots[$i];
-    //                 $next = $slots[$i + 1];
-
-    //                 if ($current['end'] == $next['start']) {
-    //                     $conflictCount++;
-    //                 }
-    //             }
-    //         }
-    //     }
-
-    //     Log::info('Lecturer back-to-back class violations (no break): ' . $conflictCount);
-    //     return $conflictCount;
-    // }
-
 }

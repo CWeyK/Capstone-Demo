@@ -152,22 +152,8 @@ class SchedulingEnv(gym.Env):
 
             reward += gap_penalty
 
-            # # --- Soft constraint: penalize lecturer back-to-back classes ---
-            # lecturer_slots = list(self.lecturer_schedule[lecturer])
-            # lecturer_slots.sort()
-
-            # lecturer_penalty = 0.0
-            # for i in range(len(lecturer_slots) - 1):
-            #     if lecturer_slots[i + 1] - lecturer_slots[i] == 1:
-            #         lecturer_penalty -= 0.1  # Penalty for no break
-
-            # reward += lecturer_penalty
-
         self.current_class_idx += 1
         done = self.current_class_idx >= self.num_classes
-        # if done:
-        #     reward += 2.0  # bonus for completing the entire schedule
-
 
         return self._get_observation(), reward, done, False, {}
 

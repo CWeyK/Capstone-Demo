@@ -368,12 +368,6 @@ new class extends Component {
                     Verify
                 </button>
             </div>
-            {{-- <div class="fv-row mb-6">
-                <x-label name='Count Lecturer Back-to-Back Classes: ' class="fw mb-2 fs-7" />
-                <button type="button" class="btn btn-sm btn-light-primary ms-3" wire:click="verify('lecturerLong')">
-                    Verify
-                </button>
-            </div> --}}
         </div>
     </div>
 
