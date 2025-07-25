@@ -1,0 +1,277 @@
+[
+  {
+    "class_id": 1,
+    "time_slot": "Fri_11:00",
+    "room_id": 1
+  },
+  {
+    "class_id": 2,
+    "time_slot": "Mon_13:00",
+    "room_id": 6
+  },
+  {
+    "class_id": 3,
+    "time_slot": "Tue_11:00",
+    "room_id": 3
+  },
+  {
+    "class_id": 4,
+    "time_slot": "Mon_11:00",
+    "room_id": 3
+  },
+  {
+    "class_id": 5,
+    "time_slot": "Thu_13:00",
+    "room_id": 2
+  },
+  {
+    "class_id": 6,
+    "time_slot": "Fri_12:00",
+    "room_id": 3
+  },
+  {
+    "class_id": 7,
+    "time_slot": "Tue_13:00",
+    "room_id": 4
+  },
+  {
+    "class_id": 8,
+    "time_slot": "Fri_14:00",
+    "room_id": 5
+  },
+  {
+    "class_id": 9,
+    "time_slot": "Wed_14:00",
+    "room_id": 1
+  },
+  {
+    "class_id": 10,
+    "time_slot": "Thu_14:00",
+    "room_id": 3
+  },
+  {
+    "class_id": 11,
+    "time_slot": "Fri_09:00",
+    "room_id": 6
+  },
+  {
+    "class_id": 12,
+    "time_slot": "Thu_16:00",
+    "room_id": 5
+  },
+  {
+    "class_id": 13,
+    "time_slot": "Thu_11:00",
+    "room_id": 3
+  },
+  {
+    "class_id": 14,
+    "time_slot": "Mon_09:00",
+    "room_id": 4
+  },
+  {
+    "class_id": 15,
+    "time_slot": "Wed_10:00",
+    "room_id": 3
+  },
+  {
+    "class_id": 16,
+    "time_slot": "Mon_15:00",
+    "room_id": 1
+  },
+  {
+    "class_id": 17,
+    "time_slot": "Wed_15:00",
+    "room_id": 2
+  },
+  {
+    "class_id": 18,
+    "time_slot": "Tue_15:00",
+    "room_id": 5
+  },
+  {
+    "class_id": 19,
+    "time_slot": "Tue_09:00",
+    "room_id": 2
+  },
+  {
+    "class_id": 20,
+    "time_slot": "Tue_15:00",
+    "room_id": 2
+  },
+  {
+    "class_id": 21,
+    "time_slot": "Wed_13:00",
+    "room_id": 4
+  },
+  {
+    "class_id": 22,
+    "time_slot": "Wed_11:00",
+    "room_id": 4
+  },
+  {
+    "class_id": 23,
+    "time_slot": "Mon_15:00",
+    "room_id": 3
+  },
+  {
+    "class_id": 24,
+    "time_slot": "Wed_16:00",
+    "room_id": 1
+  },
+  {
+    "class_id": 25,
+    "time_slot": "Wed_14:00",
+    "room_id": 5
+  },
+  {
+    "class_id": 26,
+    "time_slot": "Thu_09:00",
+    "room_id": 4
+  },
+  {
+    "class_id": 27,
+    "time_slot": "Mon_13:00",
+    "room_id": 2
+  },
+  {
+    "class_id": 28,
+    "time_slot": "Thu_16:00",
+    "room_id": 6
+  },
+  {
+    "class_id": 29,
+    "time_slot": "Fri_12:00",
+    "room_id": 6
+  },
+  {
+    "class_id": 30,
+    "time_slot": "Thu_12:00",
+    "room_id": 4
+  },
+  {
+    "class_id": 31,
+    "time_slot": "Tue_08:00",
+    "room_id": 4
+  },
+  {
+    "class_id": 32,
+    "time_slot": "Mon_15:00",
+    "room_id": 6
+  },
+  {
+    "class_id": 33,
+    "time_slot": "Wed_14:00",
+    "room_id": 3
+  },
+  {
+    "class_id": 34,
+    "time_slot": "Wed_16:00",
+    "room_id": 5
+  },
+  {
+    "class_id": 35,
+    "time_slot": "Wed_12:00",
+    "room_id": 2
+  },
+  {
+    "class_id": 36,
+    "time_slot": "Fri_14:00",
+    "room_id": 4
+  },
+  {
+    "class_id": 37,
+    "time_slot": "Thu_12:00",
+    "room_id": 5
+  },
+  {
+    "class_id": 38,
+    "time_slot": "Tue_13:00",
+    "room_id": 2
+  },
+  {
+    "class_id": 39,
+    "time_slot": "Mon_15:00",
+    "room_id": 4
+  },
+  {
+    "class_id": 40,
+    "time_slot": "Mon_09:00",
+    "room_id": 3
+  },
+  {
+    "class_id": 41,
+    "time_slot": "Thu_13:00",
+    "room_id": 1
+  },
+  {
+    "class_id": 42,
+    "time_slot": "Mon_11:00",
+    "room_id": 6
+  },
+  {
+    "class_id": 43,
+    "time_slot": "Mon_13:00",
+    "room_id": 4
+  },
+  {
+    "class_id": 44,
+    "time_slot": "Tue_09:00",
+    "room_id": 5
+  },
+  {
+    "class_id": 46,
+    "time_slot": "Thu_14:00",
+    "room_id": 1
+  },
+  {
+    "class_id": 47,
+    "time_slot": "Tue_11:00",
+    "room_id": 6
+  },
+  {
+    "class_id": 48,
+    "time_slot": "Wed_09:00",
+    "room_id": 6
+  },
+  {
+    "class_id": 49,
+    "time_slot": "Wed_13:00",
+    "room_id": 3
+  },
+  {
+    "class_id": 50,
+    "time_slot": "Wed_14:00",
+    "room_id": 4
+  },
+  {
+    "class_id": 51,
+    "time_slot": "Wed_16:00",
+    "room_id": 3
+  },
+  {
+    "class_id": 52,
+    "time_slot": "Thu_09:00",
+    "room_id": 3
+  },
+  {
+    "class_id": 53,
+    "time_slot": "Fri_13:00",
+    "room_id": 1
+  },
+  {
+    "class_id": 54,
+    "time_slot": "Fri_09:00",
+    "room_id": 3
+  },
+  {
+    "class_id": 55,
+    "time_slot": "Fri_08:00",
+    "room_id": 4
+  },
+  {
+    "class_id": 56,
+    "time_slot": "Wed_10:00",
+    "room_id": 1
+  }
+]
